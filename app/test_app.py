@@ -1,3 +1,4 @@
+# pylint: disable=redefined-outer-name
 """Модульные тесты HTTP-интерфейса."""
 
 import pytest
